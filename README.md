@@ -4,3 +4,4 @@
 ![Screenshot 3](https://github.com/ShrutiiMargaje/Blog-Website/assets/99093420/9f2e8b23-df65-4194-a1a8-346979b2c15e)
 ![Screenshot 4](https://github.com/ShrutiiMargaje/Blog-Website/assets/99093420/bd607838-e633-4957-98f7-2a206251045d)
 ![Screenshot 5](https://github.com/ShrutiiMargaje/Blog-Website/assets/99093420/86835690-a1b6-4ac2-8289-58994d8b81e3)
+![Screenshot 6](https://github.com/ShrutiiMargaje/Blog-Website/assets/99093420/a9e68bdc-ea54-4f14-a4ef-49b277a39852)
